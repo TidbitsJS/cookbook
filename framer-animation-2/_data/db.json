@@ -1,0 +1,29 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "Sunset at the Beach",
+            "imageUrl": "https://images.unsplash.com/photo-1699115174617-7e49afc54da5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Mountain Peaks",
+            "imageUrl": "https://images.unsplash.com/photo-1699115174617-7e49afc54da5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Lush Green Forest",
+            "imageUrl": "https://images.unsplash.com/photo-1699115174617-7e49afc54da5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 4,
+            "title": "Colorful Flower Garden",
+            "imageUrl": "https://images.unsplash.com/photo-1699115174617-7e49afc54da5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 5,
+            "title": "Starry Night Sky",
+            "imageUrl": "https://images.unsplash.com/photo-1699115174617-7e49afc54da5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
