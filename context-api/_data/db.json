@@ -1,0 +1,34 @@
+{
+    "tweets": [
+        {
+            "id": 1,
+            "text": "Just tried to use 'next-week' for server-side rendering. Now my server is stuck in a time loop. Help! 🌀⏰ #NextJSChronicles",
+            "author": "TimeTravelerDev",
+            "timestamp": "2023-11-19T12:30:00Z"
+        },
+        {
+            "id": 2,
+            "text": "Accidentally used 'getServerSlides' instead of 'getServerSideProps'. Now my website is a PowerPoint presentation. #NextJSGoneWrong",
+            "author": "SlideMasterCoder",
+            "timestamp": "2023-11-19T13:15:00Z"
+        },
+        {
+            "id": 3,
+            "text": "Tried to create a dynamic route for my emotions. Now my app has more routes than my morning commute. 🚗💨 #NextJSFeels",
+            "author": "EmoCoder",
+            "timestamp": "2023-11-19T14:00:00Z"
+        },
+        {
+            "id": 4,
+            "text": "Just used 'getServerCats' instead of 'getServerSideProps'. Now my Next.js app is purr-fectly broken. 🐾😺 #NextJSCatAstrophe",
+            "author": "CatCoder",
+            "timestamp": "2023-11-19T14:45:00Z"
+        },
+        {
+            "id": 5,
+            "text": "Tried to deploy my Next.js app to the cloud. It rained JavaScript. Now my code is all wet. ☔️💻 #NextJSShower",
+            "author": "RainyCoder",
+            "timestamp": "2023-11-19T15:30:00Z"
+        }
+    ]
+}
